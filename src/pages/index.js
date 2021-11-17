@@ -3,7 +3,7 @@
 
  export default function IndexPage() {
   return (<main>
-      <h1>Hello</h1>
+      <h1>Hello from index page</h1>
     </main>
     )
  }
